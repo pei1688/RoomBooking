@@ -1,0 +1,3 @@
+{
+  "editor.codeActionOnSave": { "source.organizeImports": true }
+}
